@@ -2,7 +2,7 @@
 ## :grey_question:JUEGO ADIVINA EL NÚMERO :grey_question:
 
 <picture>
-  <img alt="Adivina el número" src="https://cdn.pixabay.com/photo/2013/07/12/17/21/dice-152070_1280.png" width="45" height="45" float="left">
+  <img alt="Adivina el número" src="https://cdn.pixabay.com/photo/2013/07/12/17/21/dice-152070_1280.png"  style="width: 50px; height: 50px; float: left; padding: 15px;">
 </picture>
 
 La aplicación genera un número secreto aleatorio del 1 al 100. Si ingresas un número menor de 1 y mayor de 100 te avisa que estas fuera de rango. A continuación va pidiendo números y responde si el número secreto es mayor o menor que el introducido.
