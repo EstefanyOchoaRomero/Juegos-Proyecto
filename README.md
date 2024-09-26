@@ -13,3 +13,4 @@ Cuando se acierta el número, te dice en cuantos intentos lo has acertado y te p
 <img alt="El ahorcado" src="https://cdn.pixabay.com/photo/2016/12/05/19/51/boy-1884786_1280.png"  width="55px" 
 height="55px">
 
+
