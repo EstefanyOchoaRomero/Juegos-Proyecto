@@ -14,4 +14,3 @@ Cuando se acierta el número, te dice en cuantos intentos lo has acertado y te p
 height="55px">
 
 
-
