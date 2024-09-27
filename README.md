@@ -16,7 +16,7 @@ height="55px">
 La aplicación desarrolla el clasico juego del ahorcado, el objetivo del juego es adivinar una palabra letra por letra antes de que se agoten el número de vidas.
 
 Bases del juego
-- El programa selecciona una palabra al azar de un conjunto de palabras almacenadas en un arreglo.
+- El juego selecciona una palabra al azar de un conjunto de palabras almacenadas en un arreglo.
 - El jugador tiene 5 intentos fallidos antes de que el juego termine.
 - El jugador gana puntos por cada acierto y pierde puntos por fallar.
 - A medida que el jugador falla, se dibuja un muñeco ahorcado en la consola.
