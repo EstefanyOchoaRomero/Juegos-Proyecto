@@ -25,12 +25,12 @@ public class AdivinarNumero{
         }
         else if(num > numAleatorio){
             System.out.println("Ohhh!!Vuelve a intentarlo");
-            System.out.println("El número es mayor que el número aleatorio\n");
+            System.out.println("El número es menor que el número que ingresaste\n");
             terminar =false;
         }
         else if(num < numAleatorio){
             System.out.println("Ohhh!!Vuelve a intentarlo");
-            System.out.println("El número es menor que el número aleatorio\n");
+            System.out.println("El número es mayor que el número que ingresaste\n");
             terminar =false;
 
         }                
