@@ -1,6 +1,7 @@
 
-import ahorcado.Ahorcado;
 import java.util.Scanner;
+
+import ahorcado.Ahorcado;
 
     public class Menu {
 
